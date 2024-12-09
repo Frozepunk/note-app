@@ -1,4 +1,4 @@
-# ez-notes
+# note app
 
 An Electron application with React and TypeScript
 
